@@ -1,0 +1,76 @@
+MENU' DEL GIORNO:
+LASAGNE ALLA BOLOGNESE.
+****LISTA INGREDIENTI****
+    -Pasta sfoglia
+    -RAGU'
+        -Carne bovina tritata
+        -Soffritto di verdure
+        -Vino rosso
+        -Passata di pomodoro
+        -Olio ex di oliva
+        -Pancetta
+        -Brodo vegetale
+        -sale
+        -pepe
+    -BESCIAMELLA
+*************************************
+    ****LISTA UTENSILI****
+        -Coltello
+        -Tagliere
+        -Casseruola
+        -Coperchio
+        -Cucchiaio in legno
+        -Mattarello
+        -Schiumarola
+        -Cucchiaio
+        -Pirofila
+        -Forno
+        -Piano cottura
+        -Guanto da forno
+******************PROCEDIMENTO*********************
+    -Preparazione: pancetta
+        -Prendi la pancetta da lista ingredienti.
+        -Prendi Coltello da lista utensili
+        -Prendi tagliere da lista utensili
+            -Metti pancetta su tagliere
+            -Usa coltello per ridurre in parti piccole la pancetta
+                -SE pancetta finisce vai allo step successivo , ALTRIMENTI continua a tagliare
+    -Preparazione: Ragù
+        -Prendi piano cottura da lista utensili
+        -Prendi casseruola da lista utensili
+            -Metti casseruola su piano cottura
+        -prendi cucchiaio in legno da lista utensili
+            -Aggiungi olio ex di oliva da lista ingredienti in casseruola
+            -Prendi pancetta da preparazione pancetta ed aggiungi in casseruola
+        -Accendi piano cottura e lascia cuocere per 5 minuti
+        -Aggiungi soffritto lista ingredienti in casseruola
+        -Aggiungi carne tritata da lista ingredienti in casseruola
+        -Aggiungi vino da lista ingredienti in casseruola
+        -Aggiungi passata di pomodoro da lista ingredienti
+        -Metti coperchio da lista utensili
+            -Lascia cuocere per 1 ora
+    -Preparazione: Lasagna
+        -Prendi pirofila da lista utensili
+       * -Prendi pasta sfoglia da lista ingredienti
+        -Prendi Ragù
+        -Prendi besciamella da lista ingredienti
+        -Prendi cucchiaio da lista utensili
+           -Prendi ragù con cucchiaio ed aggiungi in pirofila
+            -Prendi besciamella con cucchiaio aggiungi in pirofila
+            -Prendi pasta sfoglia ed aggiungi in pirofila
+        -Ripeti da * per 5 volte
+    -Cottura Lasagna
+        -Prendi forno da lista utensili
+            -Accendi forno a 180 gradi
+            -Apri forno
+        -Prendi lasagna da preparazione lasagna
+        -Metti in forno
+            -Chiudi forno
+        -Lascia cuocere
+            -SE sono passati 40 minuti
+                -Prendi guanti da forno da lista utensili
+                -Apri forno
+                -Rimuovi Lasagna
+                -Riponi su tagliere
+                -Chiudi forno
+            -Altrimenti Lascia cuocere
